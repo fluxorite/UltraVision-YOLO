@@ -10,8 +10,7 @@ It gives you a clean menu to run detection on a single image, a whole folder of 
 - Runs offline after the model is downloaded
 - Progress bar for batch processing and model download
 - Clean exit with Ctrl+C, and errors do not crash the menu
-- Works in Termux (Android)
-- Tested only on Termux. Other systems (Windows, Linux, macOS) have not been tested.
+- Tested on Termux (Android). Windows and macOS have not been tested.
 
 ## Requirements
 
@@ -21,11 +20,6 @@ It gives you a clean menu to run detection on a single image, a whole folder of 
 ```bash
 pip install -r requirements.txt
 ```
-
-## System Requirements
-
-- RAM: tested on a phone with 6 GB RAM.
-- Long videos have not been tested.
 
 ## Usage
 
@@ -68,7 +62,7 @@ and needs a lot of RAM.
 
 ## License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 See the [LICENSE](LICENSE) file for details.
 
 ## Credits
